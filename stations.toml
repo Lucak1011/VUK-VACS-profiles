@@ -197,3 +197,11 @@ priority = []
 
 
 [stations.profiles.AFIS_AGCS_Stations]
+
+include = [
+"EG**_I*",
+"EG**_R*",
+]
+
+exclude = []
+priority = []
