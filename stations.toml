@@ -74,7 +74,13 @@ include = [
     "EGVV_*",
 ]
 exclude = []
-priority = []
+priority = [
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL"
+]
 
 [stations.profiles.South_LAG.aliases]
 
@@ -93,7 +99,13 @@ include = [
     "EGVV_*",
 ]
 exclude = []
-priority = []
+priority = [
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL"
+]
 
 [stations.profiles.Central_LAG.aliases]
 
@@ -141,7 +153,13 @@ include = [
     "EGVV_*",
 ]
 exclude = []
-priority = []
+priority = [
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL"
+]
 
 [stations.profiles.West_LAG.aliases]
 
@@ -164,7 +182,13 @@ include = [
     "EGVV_*",
 ]
 exclude = []
-priority = []
+priority = [
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL"
+]
 
 [stations.profiles.North_LAG.aliases]
 
@@ -191,7 +215,13 @@ include = [
     "EGVV_*",
 ]
 exclude = []
-priority = []
+priority = [
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL"
+]
 
 [stations.profiles.Scottish.aliases]
 
@@ -199,8 +229,8 @@ priority = []
 [stations.profiles.AFIS_AGCS_Stations]
 
 include = [
-"EG**_I*",
-"EG**_R*",
+"EG*_I*",
+"EG*_R*",
 ]
 
 exclude = []
