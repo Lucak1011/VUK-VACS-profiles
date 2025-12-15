@@ -72,6 +72,13 @@ include = [
     "LON_*",
     "LTC_*",
     "EGVV_*",
+    "EBBU_W*",
+    "EBBU_C*",
+    "EBBU_N*",
+    "EBBU_E*",
+    "EBBU_U*",
+    "EDYY_K*",
+    "EDYY_N*",
 ]
 exclude = []
 priority = [
@@ -118,6 +125,7 @@ include = [
     "STC_*",
     "MAN_*",
     "UK_*",
+    "NAT_*",
 ]
 exclude = []
 priority = [
@@ -151,6 +159,8 @@ include = [
     "LON_*",
     "LTC_*",
     "EGVV_*",
+    "NAT_*",
+    "EGGX_*",
 ]
 exclude = []
 priority = [
@@ -180,6 +190,8 @@ include = [
     "STC_*",
     "SCO_*",
     "EGVV_*",
+    "NAT_*",
+    "EGGX_*",
 ]
 exclude = []
 priority = [
@@ -213,6 +225,8 @@ include = [
     "STC_*",
     "SCO_*",
     "EGVV_*",
+    "NAT_*",
+    "EGGX_*",
 ]
 exclude = []
 priority = [
