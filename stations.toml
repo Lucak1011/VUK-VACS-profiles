@@ -118,6 +118,7 @@ include = [
     "STC_*",
     "MAN_*",
     "UK_*",
+    "NAT_*",
 ]
 exclude = []
 priority = [
@@ -151,6 +152,8 @@ include = [
     "LON_*",
     "LTC_*",
     "EGVV_*",
+    "NAT_*",
+    "EGGX_*",
 ]
 exclude = []
 priority = [
@@ -180,6 +183,8 @@ include = [
     "STC_*",
     "SCO_*",
     "EGVV_*",
+    "NAT_*",
+    "EGGX_*",
 ]
 exclude = []
 priority = [
@@ -213,6 +218,8 @@ include = [
     "STC_*",
     "SCO_*",
     "EGVV_*",
+    "NAT_*",
+    "EGGX_*",
 ]
 exclude = []
 priority = [
